@@ -24,3 +24,5 @@ Router.get('/MG/about/team', aboutTeam)
 
 //Video Chat
 Router.get('/MG/videoChat')
+
+
